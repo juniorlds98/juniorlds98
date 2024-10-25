@@ -1,4 +1,8 @@
-## Hi there 👋
+Flávio Ricardo
+Pro Retoucher, Designer, Front-end Developer & Instructor
+Flavio Ricardo GitHub stats
+
+Behance Instagram Youtube Facebook ArtStation WhatsApp
 
 <!--
 **juniorlds98/juniorlds98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
