@@ -16,7 +16,7 @@ I’m currently a <strong>Software Engineering Student</strong>, focused on <str
 <hr/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,fastapi,c,html,css,bootstrap,tailwind,figma,js,react,docker,githubactions,,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,fastapi,c,html,css,bootstrap,tailwind,figma,js,react,docker,githubactions,mysql,postgresql" />
 </div>
 
 <hr/>
