@@ -6,7 +6,7 @@
 
 <div align="center">
        
-  💬 Feel free to ask me anything <a href="https://github.com/juniorlds98/juniorlds98/issues">here</a>
+  💬 Feel free to ask me anything <a href="https://github.com/juniorlds98/juniorlds98/issues">here</a><br>
 
 </div>
 
@@ -19,7 +19,7 @@
        </a>
        <a href="https://www.instagram.com/juniors_lds/" target="_blank">
               <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-       </a>
+       </a><br>
 </div>
 
 <div align="center">
