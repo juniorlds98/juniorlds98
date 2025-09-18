@@ -28,7 +28,7 @@ I’m currently a <strong>Software Engineering Student</strong>, focused on <str
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juniorlds98&show_icons=true&theme=react&border_radius=10&count_private=true" alt="📈 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juniorlds98&show_icons=true&theme=react&border_radius=10&count_private=true&timestamp=123" alt="📈 GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorlds98&layout=compact&theme=react&border_radius=10&langs_count=8" alt="🔝 Top Languages" />
 </div>
 
