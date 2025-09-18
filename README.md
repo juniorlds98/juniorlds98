@@ -4,7 +4,7 @@
        I’m currently a <strong>Software Engineering Student at FIAP</strong>, with a technical background in <strong>UX/UI Design</strong> from <strong>EBAC</strong> and <strong>UX Unicórnio</strong> 🎨<br> 💻 Focused on <strong>Web Development</strong>, <strong>UX/UI Design</strong> and <strong>Product Experience</strong><br> 🚀 Exploring the intersection of <strong>Software Engineering</strong>, <strong>User-Centered Design</strong> and <strong>Innovation</strong> to create impactful and accessible digital solutions<br> 🌍 Passionate about bridging <strong>Technology</strong> & <strong>Design</strong>, delivering products that are both functional and intuitive 
 </div>
 
-<div>
+<div align="center">
   💬 Feel free to ask me anything <a href="https://github.com/juniorlds98/juniorlds98/issues">here</a>
 </div>
 
