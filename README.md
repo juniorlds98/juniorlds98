@@ -1,8 +1,8 @@
 <h3 align="center">👨‍💻 Studant Software Engineer & UX/UI </h3>
 
-<div align="center">
- I’m currently a <strong>Tech Lead</strong>, specializing in <strong>Web Development</strong> & <strong>DevOps</strong>, and a <strong>Programming Instructor</strong><br>
-  🧬 Researching <strong>Machine Learning</strong>, <strong>Deep Learning</strong> & <strong>Neural Networks</strong> in <strong>Bioinformatics</strong> as a Master's student in Computer Engineering<br>
+<div align="center"> 
+       I’m currently a <strong>Software Engineering Student at FIAP</strong>, with a technical background in <strong>UX/UI Design</strong> from <strong>EBAC</strong> and <strong>UX Unicórnio</strong> 🎨<br> 💻 Focused on <strong>Web Development</strong>, <strong>UX/UI Design</strong> and <strong>Product Experience</strong><br> 🚀 Exploring the intersection of <strong>Software Engineering</strong>, <strong>User-Centered Design</strong> and <strong>Innovation</strong> to create impactful and accessible digital solutions<br> 🌍 Passionate about bridging <strong>Technology</strong> & <strong>Design</strong>, delivering products that are both functional and intuitive 
+</div>
   
   💬 Feel free to ask me anything <a href="https://github.com/juniorlds98/juniorlds98/issues">here</a>
 </div>
@@ -12,6 +12,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+<a href="mailto:juniorlds.98@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/juniors_lds/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <hr/>
 
